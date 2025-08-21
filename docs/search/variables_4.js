@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['len_0',['len',['../struct_robo_d_b_g_1_1hw_bp__t.html#a34707eccb3f2f8c2219f3027bf618cde',1,'RoboDBG::hwBp_t']]]
+  ['protect_0',['Protect',['../struct_robo_d_b_g_1_1_memory_region__t.html#a53a0cd99ce2dd4a316115ead7af167ee',1,'RoboDBG::MemoryRegion_t']]]
 ];

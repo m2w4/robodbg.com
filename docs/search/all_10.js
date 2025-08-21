@@ -8,7 +8,7 @@ var searchData=
   ['setregister_5',['setRegister',['../class_robo_d_b_g_1_1_debugger.html#a9d6b4f77ee088616ebb0c3e46181a1a8',1,'RoboDBG::Debugger']]],
   ['sf_6',['SF',['../debugger_8h.html#a290b19d4908bc07d062bef608a090c56a94a990462684a2fbb5dfc7fab1c8975d',1,'RoboDBG']]],
   ['single_5fstep_7',['SINGLE_STEP',['../debugger_8h.html#a9bd51cc1ff2713e134ad0999093ec784aaca3061eafbfa87d45b05d721e950b70',1,'RoboDBG']]],
-  ['startaddress_8',['startAddress',['../struct_robo_d_b_g_1_1thread__t.html#ac972e8b0359a7a7b9d7d07a871f5b553',1,'RoboDBG::thread_t']]],
-  ['startprocess_9',['startProcess',['../class_robo_d_b_g_1_1_debugger.html#a2e193ddf17e2f0cc59f760f1b257607f',1,'RoboDBG::Debugger']]],
+  ['start_8',['start',['../class_robo_d_b_g_1_1_debugger.html#a014451114a487b56d60ed673ef0dc4d0',1,'RoboDBG::Debugger::start(std::string exeName)'],['../class_robo_d_b_g_1_1_debugger.html#a5d6d210067ea27ce21b5405ac22b9298',1,'RoboDBG::Debugger::start(std::string exeName, const std::vector&lt; std::string &gt; &amp;args)']]],
+  ['startaddress_9',['startAddress',['../struct_robo_d_b_g_1_1thread__t.html#ac972e8b0359a7a7b9d7d07a871f5b553',1,'RoboDBG::thread_t']]],
   ['state_10',['State',['../struct_robo_d_b_g_1_1_memory_region__t.html#aa7519ceac5c705af449741e5be807c4c',1,'RoboDBG::MemoryRegion_t']]]
 ];

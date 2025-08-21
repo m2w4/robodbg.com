@@ -7,5 +7,6 @@ var searchData=
   ['gethardwarebreakpoints_4',['getHardwareBreakpoints',['../class_robo_d_b_g_1_1_debugger.html#a4dc897678b2f9f1c11cca9d84ef5fc49',1,'RoboDBG::Debugger']]],
   ['getmemorypages_5',['getMemoryPages',['../class_robo_d_b_g_1_1_debugger.html#a80ed0f3fb8314c89ab571be637fa7328',1,'RoboDBG::Debugger']]],
   ['getpagebyaddress_6',['getPageByAddress',['../class_robo_d_b_g_1_1_debugger.html#a5804959795543103e80f7848de9ac035',1,'RoboDBG::Debugger::getPageByAddress(LPVOID baseAddress)'],['../class_robo_d_b_g_1_1_debugger.html#abb5711d00d31d2945683077422db7aa1',1,'RoboDBG::Debugger::getPageByAddress(uintptr_t baseAddress)']]],
-  ['getregister_7',['getRegister',['../class_robo_d_b_g_1_1_debugger.html#a18df356373db50808d68fe098721d65b',1,'RoboDBG::Debugger']]]
+  ['getprocesshandle_7',['getProcessHandle',['../class_robo_d_b_g_1_1_debugger.html#a278007f26dddd965f19c3d5c2094eb72',1,'RoboDBG::Debugger']]],
+  ['getregister_8',['getRegister',['../class_robo_d_b_g_1_1_debugger.html#a18df356373db50808d68fe098721d65b',1,'RoboDBG::Debugger']]]
 ];
